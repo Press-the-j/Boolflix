@@ -1,0 +1,23 @@
+{
+  "name": "boolflix",
+  "version": "1.0.0",
+  "description": "A way to search a path",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Press-the-j/Boolflix.git"
+  },
+  "keywords": [
+    "Film",
+    "Series"
+  ],
+  "author": "Press",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Press-the-j/Boolflix/issues"
+  },
+  "homepage": "https://github.com/Press-the-j/Boolflix#readme"
+}
